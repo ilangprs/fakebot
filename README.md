@@ -1,2 +1,2 @@
-# ADD MANUAL ANJIRR
-# THIS IS FAKE BOT
+# Fake bot
+add manual anjirrr
